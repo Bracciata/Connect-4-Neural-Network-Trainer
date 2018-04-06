@@ -1,0 +1,7 @@
+C:\Users\bracc\Documents\Visual Studio 2017\Projects\Connect4ConsoleNN\Connect4ConsoleNN\bin\Debug\Connect4ConsoleNN.exe.config
+C:\Users\bracc\Documents\Visual Studio 2017\Projects\Connect4ConsoleNN\Connect4ConsoleNN\bin\Debug\Connect4ConsoleNN.exe
+C:\Users\bracc\Documents\Visual Studio 2017\Projects\Connect4ConsoleNN\Connect4ConsoleNN\bin\Debug\Connect4ConsoleNN.pdb
+C:\Users\bracc\Documents\Visual Studio 2017\Projects\Connect4ConsoleNN\Connect4ConsoleNN\obj\Debug\Connect4ConsoleNN.csprojResolveAssemblyReference.cache
+C:\Users\bracc\Documents\Visual Studio 2017\Projects\Connect4ConsoleNN\Connect4ConsoleNN\obj\Debug\Connect4ConsoleNN.csproj.CoreCompileInputs.cache
+C:\Users\bracc\Documents\Visual Studio 2017\Projects\Connect4ConsoleNN\Connect4ConsoleNN\obj\Debug\Connect4ConsoleNN.exe
+C:\Users\bracc\Documents\Visual Studio 2017\Projects\Connect4ConsoleNN\Connect4ConsoleNN\obj\Debug\Connect4ConsoleNN.pdb
